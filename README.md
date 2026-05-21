@@ -1,4 +1,4 @@
-# Exprose-AI
+# Exprose AI
 
 Calculate math expressions and graph equations instantly in your browser.
 
