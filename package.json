@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://codexfang.github.io/Exprose-AI",
+  "homepage": "https://codexfang.github.io/exprose-ai",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

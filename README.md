@@ -2,7 +2,7 @@
 
 Calculate math expressions and graph equations instantly in your browser.
 
-**Live site:** [https://codexfang.github.io/Exprose-AI](https://codexfang.github.io/Exprose-AI)
+**Live site:** [https://codexfang.github.io/exprose-ai](https://codexfang.github.io/exprose-ai)
 
 ## Features
 
@@ -34,12 +34,12 @@ npm run preview
 
 ## Deploy to GitHub Pages
 
-1. Create a GitHub repository named **`Exprose-AI`** (must match the `base` path in `vite.config.ts` and the `homepage` in `package.json`).
+1. Create a GitHub repository named **`exprose-ai`** (must match the `base` path in `vite.config.ts` and the `homepage` in `package.json`).
 
 2. Push this project to the repo:
 
    ```bash
-   git remote set-url origin https://github.com/codexfang/Exprose-AI.git
+   git remote set-url origin https://github.com/codexfang/exprose-ai.git
    git add .
    git commit -m "Update Exprose-AI"
    git push -u origin main
@@ -57,7 +57,7 @@ npm run preview
 
 5. After a minute or two, the site is live at:
 
-   **https://codexfang.github.io/Exprose-AI**
+   **https://codexfang.github.io/exprose-ai**
 
 ### Updating the site
 
@@ -69,8 +69,8 @@ npm run deploy
 
 ## Configuration notes
 
-- `package.json` → `"homepage": "https://codexfang.github.io/Exprose-AI"`
-- `vite.config.ts` → `base: '/Exprose-AI/'` (required for asset paths on GitHub Pages)
+- `package.json` → `"homepage": "https://codexfang.github.io/exprose-ai"`
+- `vite.config.ts` → `base: '/exprose-ai/'` (required for asset paths on GitHub Pages)
 - No client-side router — tab switching is in-app state only, so static hosting works without SPA fallbacks.
 
 ## Tech stack
