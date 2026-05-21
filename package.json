@@ -1,9 +1,9 @@
 {
-  "name": "exprose-solve",
+  "name": "exprose-ai",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://codexfang.github.io/exprose-solve",
+  "homepage": "https://codexfang.github.io/Exprose-AI",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

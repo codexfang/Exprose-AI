@@ -12,7 +12,7 @@ export default function App() {
       <main className="w-full max-w-4xl">
         <header className="mb-8 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl">
-            Expose-AI
+            Exprose-AI
           </h1>
           <p className="mx-auto mt-3 max-w-xl text-base text-slate-600 sm:text-lg">
             Calculate math expressions and graph equations instantly in your
