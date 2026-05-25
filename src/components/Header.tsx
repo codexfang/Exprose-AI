@@ -6,7 +6,7 @@ export function Header() {
           Exprose AI
         </h1>
         <p className="text-sm text-slate-500 sm:text-right">
-          Instant math solving &amp; graphing engine
+          Matematics &amp; Graphing Engine
         </p>
       </div>
     </header>
