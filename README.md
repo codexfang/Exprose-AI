@@ -13,3 +13,7 @@ Calculate math expressions and graph equations instantly in your browser.
 - Tailwind CSS 4
 - mathjs (expression evaluation)
 - Chart.js + react-chartjs-2 (graphing)
+
+## License
+
+MIT
